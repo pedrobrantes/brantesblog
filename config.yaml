@@ -16,7 +16,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
-copyright: "© 2024 **[Brantes](https://brantes.netlify.app/)**"
+
+
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
