@@ -1,6 +1,7 @@
 baseurl: https://brantes.netlify.app
 title: Brantes
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: "hugo-PaperMod"
 DefaultContentLanguage: "pt"
 
@@ -91,7 +92,7 @@ params:
     Title: "Olá! \U0001F44B"
     Content: Bem vindo ao meu blog
 
-  socialIcons:
+  social:
     #- name: x
     #  url: "https://x.com/"
     #- name: stackoverflow
@@ -129,6 +130,7 @@ params:
   # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
+
     shouldSort: true
     location: 0
     distance: 1000
