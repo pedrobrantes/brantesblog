@@ -91,7 +91,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Olá! \U0001F44B"
-    Content: Bem vindo ao meu blog
+    Content: Me chamo Pedro Brantes, desenvolvedor de software e analista de dados. Apaixonado por Rust, R, e engenharia de software.
 
   social:
     #- name: x
